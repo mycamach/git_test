@@ -1,0 +1,1 @@
+This is Manoli's first git project!
